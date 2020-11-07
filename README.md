@@ -20,3 +20,5 @@
  - Favorite forum software: phpBB
  - Favorite graphics card: GeForce GTX 1050
  - Hotel: Trivago
+ 
+ [![lambdagit101's github stats](https://github-readme-stats.vercel.app/api?username=lambdagit101)](https://github.com/anuraghazra/github-readme-stats)
