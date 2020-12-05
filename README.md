@@ -4,7 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lambdagit101)](https://github.com/ryo-ma/github-profile-trophy)
 
-random joke: ![Jokes Card](https://readme-jokes.vercel.app/api)
+random joke: 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 welcome
 
